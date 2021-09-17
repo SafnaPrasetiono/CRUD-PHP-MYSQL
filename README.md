@@ -2,11 +2,11 @@
 <img src="https://github.com/SafnaPrasetiono/CRUD-PHP-MYSQL/blob/main/images/wallpaper.jpg" width="500">
 </p>
 
-## Tentang desain web ini
+## Tentang web crud
 
 Web pembuatan CRUD dengan menggunkan php dan mysql. website ini dibuat untuk pembelajaran mememahami atau mengetahui cara membuat CRUD dengan menggunakan program php dan penggunaan database mysql.
 
-Desain web ini dibuat dengan menggunakan framework
+Web ini dibuat dengan menggunakan framework
 - [Bootstrap v5.0](https://getbootstrap.com/). 
 
 
